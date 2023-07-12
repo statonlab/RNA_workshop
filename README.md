@@ -1,4 +1,4 @@
-# RNA_workshop
+# RNA-Seq Workshop
 
 Welcome to the 2023 RNA-Seq Workshop! This workshop is being offered to all UTK students, staff, and faculty as an intensive, one-week dive into designing and analyzing RNA-Seq data.
 
