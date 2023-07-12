@@ -2,6 +2,8 @@
 
 Welcome to the 2023 RNA-Seq Workshop! This workshop is being offered to all UTK students, staff, and faculty as an intensive, one-week dive into designing and analyzing RNA-Seq data.
 
+The workshop cost is $200 per attendee, and sign up ends August 7th.
+
 Interested? Contact rkuster@utk.edu.
 
 *This workshop is contingent on enrollment, so please don't hesitate to request a spot!*
