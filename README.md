@@ -8,4 +8,6 @@ Interested? Contact rkuster@utk.edu.
 
 **Prerequisite knowledge :** This workshop requires a working knowledge of navigating and using a command line environment. If you're not comfortable using command line, consider signing up for the two day [Command Line Workshop](https://github.com/statonlab/CLI_workshop) being offered the week prior to the RNA-Seq workshop.
 
+For course content, please see the [wiki](https://github.com/statonlab/RNA_workshop/wiki).
+
 ![flyer](images/rnaseq_workshop.png)
