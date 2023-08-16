@@ -1,0 +1,5 @@
+sample_id,quant_file,condition
+SRR17062758,SRR17062758_quant/quant.sf,max2
+SRR17062759,SRR17062759_quant/quant.sf,max2
+SRR17062761,SRR17062761_quant/quant.sf,control
+SRR17062762,SRR17062762_quant/quant.sf,control
