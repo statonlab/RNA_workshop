@@ -4,8 +4,10 @@ library(GenomicFeatures)
 library(DESeq2)
 library(pheatmap)
 
-# create a workding directory and choose a place to write your results to
+# create a workding directory
 setwd("")
+
+# give the full path to the "salmon_results" (it should end in "salmon_results"
 dir <- ""
 
 # load the gff3 file, then create a transcript database/dataframe for use with deseq
